@@ -1,0 +1,5 @@
+{
+  "name": "EverGrow",
+  "description": "Know the disease, grow the cure. AI-powered crop disease detection and treatment advice for farmers.",
+  "requestFramePermissions": ["camera"]
+}
